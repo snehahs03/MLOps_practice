@@ -3,7 +3,7 @@ from pathlib import Path
 import logging
 
 list_of_files=[
-    ".gihun/workflows/.gitkeep",
+    ".github/workflows/.gitkeep",
     "src/__init__.py",
     "src/components/__init__.py",
     # Ml has 2 pipelines, training and prediction pipeline, components is a part of pipeline 
